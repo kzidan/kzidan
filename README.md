@@ -1,5 +1,7 @@
 # Khaled Zidan
-Hi there, thank you for visiting my page! I am a sophmore at Purdue University double majoring in Cybersecurity as well as Computing Infrastructure and Network Engineering Technology. I have created this page with the intention of sharing my progress in learning CTF, which I will be updating frequently with write ups of challenges I have completed. I am currently looking for work opportunities both part time during the school year and full time in the summer. 
+**`Undergrad Student (Cybersecurity/Computing Infrastructure & Network Engineering Technology)`**
+
+Hi there, thank you for visiting my page! I am a sophmore at Purdue University and I have created this page with the intention of sharing my progress in learning CTF, which I will be updating frequently with write ups of challenges I have completed. I am currently looking for work opportunities both part time during the school year and full time in the summer. 
 ## Education
 :united_arab_emirates:  American School of Dubai '21
 
