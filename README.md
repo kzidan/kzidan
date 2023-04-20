@@ -1,7 +1,7 @@
 # Khaled Zidan
 **`Undergrad Student (Cybersecurity/Computing Infrastructure & Network Engineering Technology)`**
 
-Hi there, thank you for visiting my page! I am a sophmore at Purdue University and I have created this page with the intention of sharing my progress in learning CTF, which I will be updating frequently with write ups of challenges I have completed. I am currently looking for work opportunities both part time during the school year and full time in the summer. 
+Hi there, thank you for visiting my page! I am a sophmore at Purdue University and I have created this page with the intention of sharing my progress in learning CTF, which I will be updating frequently with write ups of challenges I have completed. I am currently looking for work opportunities both part time during the school year and full time in summer 2024. 
 ## Education
 :united_arab_emirates:  American School of Dubai '21
 
